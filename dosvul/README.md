@@ -1,5 +1,2 @@
-## Systematically Analyzing Vulnerabilities in Connection Establishment Phase of Wi-Fi
-
- © Naureen Hoque. All rights reserved.
-
+## Systematically Analyzing Vulnerabilities in the Connection Establishment Phase of Wi-Fi Systems
 
