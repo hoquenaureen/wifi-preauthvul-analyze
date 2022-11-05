@@ -1,1 +1,1 @@
-N. Hoque, H. Rahbari, and C. Rezendes, “Systematically analyzing vulnerabilities in connection establishment phase of Wi-Fi systems,” in Proceedings of IEEE Conference on Communications and Network Security (CNS), Austin, Texas, Oct. 2022.
+Formal analysis: https://github.com/hoquenaureen/wifi-preauthvul-analyze/blob/main/mc/ver.pdf
